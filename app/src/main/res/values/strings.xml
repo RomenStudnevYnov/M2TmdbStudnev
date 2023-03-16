@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">M2TmdbStudnev</string>
+    <string name="people_count_text">Loaded %1d/%2d popular people</string>
 </resources>
